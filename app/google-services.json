@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "570356513442",
+    "firebase_url": "https://acrigooo.firebaseio.com",
+    "project_id": "acrigooo",
+    "storage_bucket": "acrigooo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570356513442:android:f560fc1fbfa3120355b5fb",
+        "android_client_info": {
+          "package_name": "com.example.acrigooo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570356513442-fnut245kmionf8c8bias82u8hnc7tahn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acrigooo",
+            "certificate_hash": "edd4c94d0d01bf18226b4c8c2a25474b82a181ac"
+          }
+        },
+        {
+          "client_id": "570356513442-6gqp68prd5sm29abvgi3e3r6q6r2jevr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVX9V-FjmR7ah95r70MapQbAUzn-55TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570356513442-6gqp68prd5sm29abvgi3e3r6q6r2jevr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570356513442:android:6af9814a3318175d55b5fb",
+        "android_client_info": {
+          "package_name": "com.example.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570356513442-uu5qq30p0rkt5f3l38qcnlvrtcd20u9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camera",
+            "certificate_hash": "f6a2c9c3938796312443c557581a2e9442052182"
+          }
+        },
+        {
+          "client_id": "570356513442-6gqp68prd5sm29abvgi3e3r6q6r2jevr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVX9V-FjmR7ah95r70MapQbAUzn-55TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570356513442-6gqp68prd5sm29abvgi3e3r6q6r2jevr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570356513442:android:32b009e3132cdd0855b5fb",
+        "android_client_info": {
+          "package_name": "com.example.mycameraplante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570356513442-v8p28hl8n4r68vrp7e3oligd7lgtit0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycameraplante",
+            "certificate_hash": "edd4c94d0d01bf18226b4c8c2a25474b82a181ac"
+          }
+        },
+        {
+          "client_id": "570356513442-6gqp68prd5sm29abvgi3e3r6q6r2jevr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVX9V-FjmR7ah95r70MapQbAUzn-55TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570356513442-6gqp68prd5sm29abvgi3e3r6q6r2jevr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
